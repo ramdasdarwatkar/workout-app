@@ -1,1 +1,0 @@
-html,body,#root{height:100%;margin:0;background-color:coral}.app{min-height:100vh;padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bottom)}.card{height:200px;width:100%;border:2px solid red}
